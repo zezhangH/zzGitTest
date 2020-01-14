@@ -4,6 +4,6 @@ public class Test {
     }
     public void version() {
         //哈哈哈哈哈哈哈哈
-        public String name;
+        String name;
     }
 }
